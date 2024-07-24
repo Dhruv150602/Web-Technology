@@ -1,0 +1,9 @@
+#p1{
+        color: rgb(30, 164, 241);
+        font-weight: bolder;
+        font-style: italic;
+        text-transform: capitalize;
+        text-decoration: double;
+        text-decoration-line: underline
+}
+
