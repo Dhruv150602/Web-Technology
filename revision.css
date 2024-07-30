@@ -1,0 +1,49 @@
+/*
+.card1 {
+    height: 5rem;
+    width: 5rem;
+    background-color:aquamarine;
+    position: absolute;
+}
+.card2 {
+    margin-left: 1rem;
+    margin-top: 2rem;
+    height: 3rem;
+    width: 3rem;
+    background-color:aquamarine;
+    
+}*/
+ 
+.desendent{
+    color: blue;
+}
+.child > h6 {
+    background-color: chartreuse;
+}
+.adjacent + span{
+    color: brown;
+}
+.sibling {
+    background-color: rgb(245, 5, 5);
+}
+body{
+    background-image: url("https://www.google.com/imgres?q=nature&imgurl=https%3A%2F%2Fi0.wp.com%2Fpicjumbo.com%2Fwp-content%2Fuploads%2Fbeautiful-nature-mountain-scenery-with-flowers-free-photo.jpg%3Fw%3D2210%26quality%3D70&imgrefurl=https%3A%2F%2Fpicjumbo.com%2Fbeautiful-nature-mountain-scenery-with-flowers%2F&docid=eHHQespkuW_aAM&tbnid=IvmsKCYuV1H-rM&vet=12ahUKEwitzuWn376HAxVB4TgGHb3LB10QM3oECBkQAA..i&w=2210&h=1473&hcb=2&ved=2ahUKEwitzuWn376HAxVB4TgGHb3LB10QM3oECBkQAA")
+}
+.scroll{
+    height: 20rem;
+    width: 20rem;
+    border: solid 1px red;
+    overflow: scroll;
+}
+.transform{
+    margin-top: 1rem;
+    height: 5rem;
+    width: 5rem;
+    background-color: blue;
+    transition: width 5s ;
+}
+.transform:hover{
+    height: 10rem;
+    width: 10rem;
+}
+
